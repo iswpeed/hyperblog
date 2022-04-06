@@ -1,0 +1,3 @@
+Ejemplo de texto plano para mi curso de git github 
+segunda linea de texto
+tercerro
