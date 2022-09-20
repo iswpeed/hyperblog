@@ -1,19 +1,29 @@
-#hyperblog
+<div align="center">
+  <h1>Hyperblog un proyecto guia de Git-Git Hub</h1>
+</div>
 
-Un blog increible para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
-> El curso de Git y Github de Platzi es lo que me hacia falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintadistica con Machine Learning
-> - niñita
+<div align="center"> 
+  <img src="https://github.com/iswpeed/hyperblog/blob/main/imagenes/git%20imagen.png?raw" width="500">
+</div>
 
-## En este curso vemos de todo
+# introducción al documento
+
+El contenido de este documento esta basado en el curso del mismo nombre dictado por [Freddy vega](https://github.com/freddier) en [platzi](https://platzi.com/home)
+
+>  Git es un sistema de control de versiones que nos ayuda a guardar el historial de cambios y crecimiento de los archivos de nuestro proyecto.
+> - Freddy Vega
+
+## En este curso veremos 
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas pr&aacute;cticas
-* Trucos muy locos del profesor
-* Las personalidades m&uacute;ltiples de Freddy
-* creado por william perez
-* incluye ejemplo en windows y mac
 * disponible para todos 
 
+# Taba de contenido
+- ¿por qué usar git?
+  - comandos básicos de Git
+  - Analizar cambios en los archivos de un proyecto Git
+  - Volver en el tiempo con branches y checkout
+  - git rm y git reset
+  -Ramas o Branches en git
 
-
-Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acà¡ NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
